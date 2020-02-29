@@ -23,7 +23,7 @@
     transition: 0.4s transform;
 }
 .content_box:hover{
-	transform: scale(1.02,1.02);
+	transform: translate(0px, -2px);
 	box-shadow: 1px 1px 8px 0px #ddd;
 	outline: none;
 }
