@@ -26,6 +26,7 @@
 	transform: translate(0px, -2px);
 	box-shadow: 1px 1px 8px 0px #ddd;
 	outline: none;
+	cursor: pointer;
 }
 .wrapper_content_box{
 	padding-right: 15px;
@@ -72,11 +73,15 @@
     padding: 10px 17px;
     border-radius: 5px;
     font-size: 13px;
+    transition: 0.5s background-color;
 }
 
 .content_box_row{
 	display: flex;
 	justify-content: space-between;
 	align-content: center;
-
+}
+.content_countAndBtn .btn_participate:hover{
+	background-color: #0098ab;
+	color: #FFF
 }
