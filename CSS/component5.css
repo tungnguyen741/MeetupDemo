@@ -7,19 +7,38 @@
 .content_box_location2 {
     color: #000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 21px;
 }
-.content_box2 {
-    width: 275px;
+.content_box2, .content_box21, .content_box22 {
+    width: 300px;
     background-image: url(../img/group1.jpg);
     background-size: contain;
     background-position: 0px -20px;
     background-repeat: no-repeat;
- 
+ 	margin-right: 30px;
+ 	  position: relative;
 }
 .content_box_theme1{
 	 margin-bottom: 8px
 }
 .cache {
     height: 170px;
+}
+.content_box_row2{
+	justify-content: flex-start;
+}
+
+.content_box21{
+	 background-image: url(../img/group2.jpg);
+}
+.content_box22 {
+    background-image: url(../img/group3.jpg);
+  
+}
+.content_box_amout2 {
+    position: absolute;
+    bottom: 0px;
+}
+.content_countAndBtn2 {
+    margin-top: 40px;
 }
