@@ -1,0 +1,25 @@
+.content_box_theme1 {
+    color: #888;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.content_box_location2 {
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+}
+.content_box2 {
+    width: 275px;
+    background-image: url(../img/group1.jpg);
+    background-size: contain;
+    background-position: 0px -20px;
+    background-repeat: no-repeat;
+ 
+}
+.content_box_theme1{
+	 margin-bottom: 8px
+}
+.cache {
+    height: 170px;
+}
