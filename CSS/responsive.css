@@ -1,0 +1,39 @@
+@media (max-width: 414px) {
+ 	.header_left a:first-child{
+ 		display: none;
+ 	}
+ 	.header_left {
+ 	justify-content: flex-end;
+    align-items: center;
+	}
+	.about{
+		height: 300px
+	}
+	.header_left a{
+		margin-right: 10px;
+	}
+	.header {
+	    padding: 10px;
+	}
+	.videoCompany {
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+}
+	.about_overlay{
+		height: initial;
+	}
+	.about h2{
+		text-align: center;
+		margin-top: 40px;
+	}
+	.about p{
+		text-align: center;
+	}
+	.about a{
+		padding: 8px 135px;
+		font-weight: 600;
+    	font-size: 17px;
+	}
+}
