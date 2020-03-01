@@ -1,0 +1,41 @@
+.com8 h2 {
+    padding-top: 80px;
+    color: #000;
+    text-align: left ;
+    padding-bottom: 0;
+}
+.com8 {
+    background-color: #FFF;
+    margin-bottom: 38px;
+}
+.com8_a a {
+    margin: 0;
+    width: 71%;
+ 
+}
+.com8_a.com7-bot_left img {
+    width: 38%;
+    margin-right: 10px;
+}
+.container_com8	{
+	display: flex;
+}
+.com8_img_right img {
+    width: 50%;
+}
+.container_content2{
+	margin: 0 auto;
+	width: 60%;
+}
+.com8_a.com7-bot_left, .com8_img{
+    text-align: left;
+}
+ .com8_a.com7-bot_left {
+    padding-left: 95px;
+}
+.com8_img_right {
+    text-align: center;
+}
+.com8_img a {
+	display: inline;
+}
