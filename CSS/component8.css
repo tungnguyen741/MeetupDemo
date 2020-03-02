@@ -9,9 +9,7 @@
     margin-bottom: 38px;
 }
 .com8_a a {
-    margin: 0;
-    width: 71%;
- 
+    margin: 0; 
 }
 .com8_a.com7-bot_left img {
     width: 38%;
@@ -22,6 +20,7 @@
 }
 .com8_img_right img {
     width: 50%;
+    height: 100%;
 }
 .container_content2{
 	margin: 0 auto;
