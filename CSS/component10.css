@@ -1,5 +1,5 @@
-.com10{
-	background-color: #2f363f
+.com10 {
+    background-color: #2f363f
 }
 .com10_top p {
     padding: 20px 0;
@@ -7,13 +7,13 @@
     font-size: 14px;
 }
 .com10_bot a {
-	font-size: 14px;
+    font-size: 14px;
     color: #FFF;
 }
-.com10_bot span, .com10_top span{
-	padding: 0 8px;
-	font-size: 10px;
-	color: #FFF;
+.com10_bot span, .com10_top span {
+    padding: 0 8px;
+    font-size: 10px;
+    color: #FFF;
 }
 .com10_bot {
     padding: 0 0 10px 0;

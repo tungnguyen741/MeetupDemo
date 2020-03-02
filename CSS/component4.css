@@ -1,72 +1,69 @@
-.container_content{
-	width: 70%;
-	margin:0 auto;
+.container_content {
+    width: 70%;
+    margin: 0 auto;
 }
 .introductory {
-	margin-top: 35px;
-	margin-bottom: 15px;
+    margin-top: 35px;
+    margin-bottom: 15px;
 }
-.introductory h2{
-	display: inline-block;
+.introductory h2 {
+    display: inline-block;
 }
-.introductory a{
-	float: right;
-	color: #00a2c7;
-	font-weight:600 ;
+.introductory a {
+    float: right;
+    color: #00a2c7;
+    font-weight: 600;
 }
 /*box*/
-.content_box{
- 	width: 350px;
+
+.content_box {
+    width: 350px;
     border-radius: 10px;
     box-shadow: 1px 1px 4px 0px #ddd;
     box-sizing: border-box;
     transition: 0.4s transform;
 }
-.content_box:hover{
-	transform: translate(0px, -2px);
-	box-shadow: 1px 1px 8px 0px #ddd;
-	outline: none;
-	cursor: pointer;
+.content_box:hover {
+    transform: translate(0px, -2px);
+    box-shadow: 1px 1px 8px 0px #ddd;
+    outline: none;
+    cursor: pointer;
 }
-.wrapper_content_box{
-	padding-right: 15px;
-	padding-top: 20px;
-	padding-left: 20px;
-	
+.wrapper_content_box {
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
 }
-
-.content_box_time{
-	color: #00a2c7;
-	font-size: 15px;
-	font-weight: 600;
+.content_box_time {
+    color: #00a2c7;
+    font-size: 15px;
+    font-weight: 600;
 }
-.content_box_btn{
-	display:block;
+.content_box_btn {
+    display: block;
 }
-.content_box_theme{
-	color: black;
-	font-size: 20px;
-	font-weight: 600;
-	margin: 5px 0;
+.content_box_theme {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 5px 0;
 }
-.content_box_location{
-	color: black;
-	margin: 5px 0;
+.content_box_location {
+    color: black;
+    margin: 5px 0;
 }
 .content_box_address, .content_box_amout {
     color: #555;
     font-size: 15px;
     padding-top: 15px;
 }
-
-.content_countAndBtn{
-	display: flex;
-	margin-top: 50px;
-	padding-bottom: 30px;
- 
+.content_countAndBtn {
+    display: flex;
+    margin-top: 50px;
+    padding-bottom: 30px;
 }
-.content_countAndBtn .btn_participate{
-	margin-left: auto;
+.content_countAndBtn .btn_participate {
+    margin-left: auto;
     font-weight: bold;
     color: #00a2c7;
     border: 1px solid #00a2c7;
@@ -75,13 +72,12 @@
     font-size: 13px;
     transition: 0.5s background-color;
 }
-
-.content_box_row{
-	display: flex;
-	justify-content: space-between;
-	align-content: center;
+.content_box_row {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
 }
-.content_countAndBtn .btn_participate:hover{
-	background-color: #0098ab;
-	color: #FFF
+.content_countAndBtn .btn_participate:hover {
+    background-color: #0098ab;
+    color: #FFF
 }

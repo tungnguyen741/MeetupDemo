@@ -1,26 +1,26 @@
-.com7{
-	background-color: #0f1721
-}
-.com7>h2{
-	text-align: center;
+.com7 {
+    background-color: #0f1721
 }
 .com7>h2 {
-	padding-top: 55px;
-	padding-bottom: 20px;
-	font-size: 32px;
-	font-weight: 500;
-	color: #FFF;
+    text-align: center;
+}
+.com7>h2 {
+    padding-top: 55px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #FFF;
 }
 .com7-bot_left h2, .com7-bot_right h2, .com7-bot_left p, .com7-bot_right p {
     color: #FFF;
-	font-weight: 500;
+    font-weight: 500;
 }
-.com7-bot_left h2, .com7-bot_right h2{
-	font-size: 32px;
+.com7-bot_left h2, .com7-bot_right h2 {
+    font-size: 32px;
 }
-.com7-bot{
-	display: flex;
-	justify-content: space-evenly;
+.com7-bot {
+    display: flex;
+    justify-content: space-evenly;
 }
 .com7-bot_left a, .com7-bot_right a {
     color: #00a2c7;

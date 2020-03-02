@@ -1,10 +1,11 @@
-*{
-	font-family: arial;
+* {
+    font-family: arial;
 }
 /*com1-header*/
-.header{
-	display: flex;
-	padding: 18px;
+
+.header {
+    display: flex;
+    padding: 18px;
 }
 .header_left {
     display: flex;
@@ -20,19 +21,18 @@
     text-decoration: none;
     color: #f64060;
 }
-.header_left a{
-	font-size: 15px;
-	text-decoration: none;
-	color: #999;
-	font-weight: bold;	
+.header_left a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #999;
+    font-weight: bold;
 }
 .header_left a:first-child {
-	border-right: 1px solid #ddd;
-	color: #00a2c7;
-	padding: 5px 0;
-	padding-right: 15px;
-
+    border-right: 1px solid #ddd;
+    color: #00a2c7;
+    padding: 5px 0;
+    padding-right: 15px;
 }
-.header_left a:hover{
-	color: #00a2c7;
+.header_left a:hover {
+    color: #00a2c7;
 }

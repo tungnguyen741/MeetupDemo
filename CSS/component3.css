@@ -5,17 +5,17 @@
     margin-right: 10px;
     padding: 5px 12px;
     border-radius: 4px;
-	color: #666;
-	font-weight: 600;
-	font-size: 14px;
+    color: #666;
+    font-weight: 600;
+    font-size: 14px;
 }
-.select_field a:hover{
-	border: 1px solid #777;
+.select_field a:hover {
+    border: 1px solid #777;
 }
-.select_field{
-	display: flex;
-	justify-content: center;
-	margin-top: 22px;
-	padding-bottom: 22px;
-	border-bottom: 1px solid #ddd;
+.select_field {
+    display: flex;
+    justify-content: center;
+    margin-top: 22px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid #ddd;
 }

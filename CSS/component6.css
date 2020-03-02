@@ -1,89 +1,87 @@
-
 .box_title_category p {
     font-weight: 600;
     margin: 10px 0;
 }
-.container_category{
-	display: flex;
+.container_category {
+    display: flex;
     justify-content: space-between;
 }
-.box_categories1{
-	background : url('../img/category1.jpg') no-repeat;
+.box_categories1 {
+    background: url('../img/category1.jpg') no-repeat;
 }
-.box_categories2{
-	background : url('../img/category2.jpg') no-repeat;
+.box_categories2 {
+    background: url('../img/category2.jpg') no-repeat;
 }
-.box_categories3{
-	background : url('../img/category3.jpg') no-repeat;
+.box_categories3 {
+    background: url('../img/category3.jpg') no-repeat;
 }
-.box_categories4{
-	background : url('../img/category4.jpg') no-repeat;
+.box_categories4 {
+    background: url('../img/category4.jpg') no-repeat;
 }
-.box_categories5{
-	background : url('../img/category5.jpg') no-repeat;
+.box_categories5 {
+    background: url('../img/category5.jpg') no-repeat;
 }
-.box_categories6{
-	background : url('../img/category6.jpg') no-repeat;
+.box_categories6 {
+    background: url('../img/category6.jpg') no-repeat;
 }
-.box_categories7{
-	background : url('../img/category7.jpg') no-repeat;
+.box_categories7 {
+    background: url('../img/category7.jpg') no-repeat;
 }
-.box_categories8{
-	background : url('../img/category8.jpg') no-repeat;
+.box_categories8 {
+    background: url('../img/category8.jpg') no-repeat;
 }
-.box_categories9{
-	background : url('../img/category9.jpg') no-repeat;
+.box_categories9 {
+    background: url('../img/category9.jpg') no-repeat;
 }
-.box_categories10{
-	background : url('../img/category10.jpg') no-repeat;
+.box_categories10 {
+    background: url('../img/category10.jpg') no-repeat;
 }
-.box_categories11{
-	background : url('../img/category11.jpg') no-repeat;
+.box_categories11 {
+    background: url('../img/category11.jpg') no-repeat;
 }
-.box_categories12{
-	background : url('../img/category12.jpg') no-repeat;
+.box_categories12 {
+    background: url('../img/category12.jpg') no-repeat;
 }
-.box_categories13{
-	background : url('../img/category13.jpg') no-repeat;
+.box_categories13 {
+    background: url('../img/category13.jpg') no-repeat;
 }
-.box_categories14{
-	background : url('../img/category14.jpg') no-repeat;
+.box_categories14 {
+    background: url('../img/category14.jpg') no-repeat;
 }
-.box_categories15{
-	background : url('../img/category15.jpg') no-repeat;
+.box_categories15 {
+    background: url('../img/category15.jpg') no-repeat;
 }
-.box_categories16{
-	background : url('../img/category16.jpg') no-repeat;
+.box_categories16 {
+    background: url('../img/category16.jpg') no-repeat;
 }
-.box_categories17{
-	background : url('../img/category17.jpg') no-repeat;
+.box_categories17 {
+    background: url('../img/category17.jpg') no-repeat;
 }
-.box_categories18{
-	background : url('../img/category18.jpg') no-repeat;
+.box_categories18 {
+    background: url('../img/category18.jpg') no-repeat;
 }
-.box_categories19{
-	background : url('../img/category19.jpg') no-repeat;
+.box_categories19 {
+    background: url('../img/category19.jpg') no-repeat;
 }
-.box_categories20{
-	background : url('../img/category20.jpg') no-repeat;
+.box_categories20 {
+    background: url('../img/category20.jpg') no-repeat;
 }
-.box_categories21{
-	background : url('../img/category21.jpg') no-repeat;
+.box_categories21 {
+    background: url('../img/category21.jpg') no-repeat;
 }
-.box_categories22{
-	background : url('../img/category22.jpg') no-repeat;
+.box_categories22 {
+    background: url('../img/category22.jpg') no-repeat;
 }
-.box_categories23{
-	background : url('../img/category23.jpg') no-repeat;
+.box_categories23 {
+    background: url('../img/category23.jpg') no-repeat;
 }
-.box_categories24{
-	background : url('../img/category24.jpg') no-repeat;
+.box_categories24 {
+    background: url('../img/category24.jpg') no-repeat;
 }
-.box_categories 
-{
- 	border-radius: 15px;
+.box_categories {
+    border-radius: 15px;
     width: 264px;
-	height: 150px;
-	background-size: cover;
-	background-position: center;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
 }

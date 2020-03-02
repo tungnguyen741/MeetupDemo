@@ -2,50 +2,48 @@
     background-color: #353e48;
     padding-bottom: 70px;
 }
-.com9_top a{
-	color: #FFF;
-	text-decoration: underline;
-	font-weight: bold;
+.com9_top a {
+    color: #FFF;
+    text-decoration: underline;
+    font-weight: bold;
 }
-.com9_top{
-	padding: 40px 0;
-	border-bottom: 1px solid #777;
+.com9_top {
+    padding: 40px 0;
+    border-bottom: 1px solid #777;
 }
- 
-.my_accout p, .social_follow p{
-	color: #FFF;
-	font-weight: bold;
+.my_accout p, .social_follow p {
+    color: #FFF;
+    font-weight: bold;
 }
-.my_accout li a{
-	color: #aaa;
+.my_accout li a {
+    color: #aaa;
 }
-.com9_bottom{
-	display: flex;
-	justify-content: space-between;
-	padding-top: 40px;
+.com9_bottom {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
 }
 .com9_img img {
-	width: 48%;
-	
+    width: 48%;
 }
-.com9_img a:first-child img{
-	margin-right: 10px;
+.com9_img a:first-child img {
+    margin-right: 10px;
 }
-.com9_img a{
-	display: inline;
+.com9_img a {
+    display: inline;
 }
 ul.my_accout {
     flex-grow: 1;
     list-style: none;
-	padding: 0;
+    padding: 0;
     flex-basis: 50%;
 }
 ul.my_accout li {
     padding: 11px 0;
 }
-.com9_top a:hover{
-	text-decoration: none;
+.com9_top a:hover {
+    text-decoration: none;
 }
 .social_follow p {
-	padding: 11px 0;
+    padding: 11px 0;
 }

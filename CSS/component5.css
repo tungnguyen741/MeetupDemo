@@ -15,30 +15,29 @@
     background-size: contain;
     background-position: 0px -20px;
     background-repeat: no-repeat;
- 	margin-right: 30px;
- 	  position: relative;
+    margin-right: 30px;
+    position: relative;
 }
-.content_box_theme1{
-	 margin-bottom: 8px
+.content_box_theme1 {
+    margin-bottom: 8px
 }
 .cache {
     height: 170px;
 }
-.content_box_row2{
-	justify-content: flex-start;
+.content_box_row2 {
+    justify-content: flex-start;
 }
-
-.content_box21{
-	 background-image: url(../img/group2.jpg);
+.content_box21 {
+    background-image: url(../img/group2.jpg);
 }
 .content_box22 {
     background-image: url(../img/group3.jpg);
-  
 }
 .content_box_amout2 {
     position: absolute;
     bottom: 0px;
     margin-bottom: 20px;
+    left: 30px;
 }
 .content_countAndBtn2 {
     margin-top: 40px;
