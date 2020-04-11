@@ -7,10 +7,10 @@
 * Component html is styled by more component.css in folder CSS 
 
 ## Built With
-* [Firebase Hosting](https://firebase.google.com/) - The web hosting
-
+* [Firebase](https://firebase.google.com/) - use FireBase Hosting
 ## Authors
 
-* **Tung Nguyen** - [TungNguyen](https://github.com/tungnguyen741)
-[FB](https://Fb.com/tung.nguyen741)
+* **Tung Nguyen** 
+> [Github](https://github.com/tungnguyen741)
+> [Facebook](https://Fb.com/tung.nguyen741)
  
