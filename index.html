@@ -26,7 +26,7 @@
 		text-decoration: none;
 	}
 </style>
-<body>
+<body id="my-scrollbar">
 	<!-- component1 -->
 	<div class="header">
 		<a href="#">Meetup</a>
@@ -482,5 +482,10 @@
 			</div>
 		</div>
 	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.5.2/smooth-scrollbar.js"></script>
+	<script type="module">
+		alert('123');
+		Scrollbar.init(document.querySelector('#my-scrollbar'));
+	</script>
 </body>
 </html>
