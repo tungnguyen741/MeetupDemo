@@ -1,4 +1,4 @@
-# PROJECT CSS CodersX 2020
+# PROJECT Pratice HTML, CSS 
 >
 * link demo: https://meetup2109.web.app/
  
