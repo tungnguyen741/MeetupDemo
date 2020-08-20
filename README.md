@@ -1,6 +1,6 @@
-# PROJECT Pratice HTML, CSS 
+# PROJECT Pratice HTML, CSS, Responsive 
 >
-* link demo: https://meetup2109.web.app/
+* https://tungnguyen741.github.io/Meetup/
  
 # Layout 
 * File index.html container components html in page
